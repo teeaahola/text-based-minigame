@@ -6,10 +6,10 @@ You are a witch that has promised a man eternal youth in exhange for his firstbo
 The time of the exchange has come, but you are not prepared and must perform tasks
 to prepare for the baby.
 
-You have to babyproof their cabin and gather a binky, a baby bottle, a book on parenting,
+You have to babyproof your cabin and gather a binky, a baby bottle, a book on parenting,
 a pram and the baby to finish. The binky, baby bottle, books and pram can be collected in any
 order, but the baby cannot be picked up before the pram. Initially your inventory contains 
-"babyproofing items" and "watch". To win, the baby must be brought home before running out of time.
+"babyproofing items" and "watch". To win, you must bring the baby home before running out of time.
 
 ## Game Design
 
@@ -18,9 +18,9 @@ house, a swamp, an empty parking lot, two stores and the player's mother's house
 move from are to area according to the available exits. The items the player needs to complete 
 the game are scattered in different parts of the map.
 
-<img width="1000" alt="A map of the game." scr="https://github.com/teeaahola/text-based-minigame/map.png">
+<img width="1000" alt="A map of the game." scr="/map.png"/>
 
-A sample successful walkthrough of the game is provided in [walkthough.txt] (https://github.com/teeaahola/text-based-minigame/walkthrough.txt).
+A sample successful walkthrough of the game is provided in [walkthough.txt](https://github.com/teeaahola/text-based-minigame/blob/main/walkthrough.txt).
 
 Available player actions:
 - help - gives the pleyer some hints on completing the game. If called multiple times, gives 
