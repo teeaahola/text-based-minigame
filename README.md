@@ -18,7 +18,7 @@ house, a swamp, an empty parking lot, two stores and the player's mother's house
 move from are to area according to the available exits. The items the player needs to complete 
 the game are scattered in different parts of the map.
 
-<img width="1000" alt="A map of the game." scr="https://github.com/teeaahola/text-based-minigame/blob/main/map.png?raw=true"/>
+![A map of the game](https://github.com/teeaahola/text-based-minigame/blob/main/map.png?raw=true)
 
 A sample successful walkthrough of the game is provided in [walkthough.txt](https://github.com/teeaahola/text-based-minigame/blob/main/walkthrough.txt).
 
